@@ -1,0 +1,7 @@
+/home/leila/id/identity/obj/Debug/net6.0/identity.csproj.AssemblyReference.cache
+/home/leila/id/identity/obj/Debug/net6.0/identity.GeneratedMSBuildEditorConfig.editorconfig
+/home/leila/id/identity/obj/Debug/net6.0/identity.AssemblyInfoInputs.cache
+/home/leila/id/identity/obj/Debug/net6.0/identity.AssemblyInfo.cs
+/home/leila/id/identity/obj/Debug/net6.0/identity.csproj.CoreCompileInputs.cache
+/home/leila/id/identity/obj/Debug/net6.0/identity.MvcApplicationPartsAssemblyInfo.cs
+/home/leila/id/identity/obj/Debug/net6.0/identity.MvcApplicationPartsAssemblyInfo.cache
